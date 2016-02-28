@@ -4,7 +4,9 @@ CSS Standard Style.
 
 ## Standard?
 
-Yes. I means this is a [stylelint](https://github.com/stylelint/stylelint) wrapper with [standard  configuration](https://github.com/stylelint/stylelint-config-standard) built-in. No need to create `.stylelintrc`, no need for config customization, it just works!.
+Yes.
+
+I mean this is a [stylelint](https://github.com/stylelint/stylelint) wrapper with [standard  configuration](https://github.com/stylelint/stylelint-config-standard) built-in. No need to create `.stylelintrc`, no need for any customization, it just works!.
 
 ## Vim
 
