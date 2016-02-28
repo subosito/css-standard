@@ -6,6 +6,7 @@
   "bin": "dist/cmd.js",
   "scripts": {
     "build": "babel src --out-dir dist",
+    "prepublish": "npm run build",
     "test": "mocha test --compilers js:babel-core/register",
     "coverage": "istanbul cover _mocha -- --compilers js:babel-core/register"
   },
